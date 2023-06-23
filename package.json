@@ -1,0 +1,29 @@
+{
+  "dependencies": {
+    "discord.js": "^14.11.0"
+  },
+  "name": "dc-botjs",
+  "version": "1.0.0",
+  "description": "Bot Discord in JS",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lgskrt/dc-botjs.git"
+  },
+  "keywords": [
+    "bot-discord-js"
+  ],
+  "author": "Luiz Weinhardt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lgskrt/dc-botjs/issues"
+  },
+  "homepage": "https://github.com/lgskrt/dc-botjs#readme"
+}
