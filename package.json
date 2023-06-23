@@ -1,6 +1,7 @@
 {
   "dependencies": {
-    "discord.js": "^14.11.0"
+    "discord.js": "^14.11.0",
+    "dotenv": "^16.3.1"
   },
   "name": "dc-botjs",
   "version": "1.0.0",
@@ -9,7 +10,6 @@
   "directories": {
     "doc": "docs"
   },
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
