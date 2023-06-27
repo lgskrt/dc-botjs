@@ -1,2 +1,2 @@
 # dc-botjs
-bot developed in js
+bot developed in js with discord.js library
